@@ -1,7 +1,7 @@
 # Machine_Larning
 Exercise Project - Liner Regression
 
-##Tools
+## Tools
 Anaconda
 Jupiter
 Matplotlib
