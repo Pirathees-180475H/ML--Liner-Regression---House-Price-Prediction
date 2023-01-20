@@ -1,2 +1,10 @@
-# machine_larning-v.1
-anoconda codes and pandas
+# Machine_Larning
+Exercise Project - Liner Regression
+
+##Tools
+Anaconda
+Jupiter
+Matplotlib
+Seaborn
+numpy
+pandas
